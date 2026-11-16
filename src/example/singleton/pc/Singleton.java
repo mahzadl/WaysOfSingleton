@@ -1,7 +1,10 @@
 package example.singleton.pc;
 
 /**
- * @see example.singleton.pc
+ * Private constant singleton.
+ * Labels: THREAD_SAFE, EAGER_INITIALIZATION.
+ *
+ * @see example.singleton labels explanation
  */
 public class Singleton {
 
